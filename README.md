@@ -24,7 +24,7 @@ The application captures audio input from a Mac or iPhone microphone and visuali
 - Suitable GPU for shader-based computations.
 
 ## Getting Started
-1. Clone the repository: `git clone [repository-url]`.
+1. Clone the repository: `git clone https://github.com/AdamLuczak/app_SDFT.git`.
 2. Open the project in Xcode.
 3. Build and run the application on your macOS or iOS device.
 
