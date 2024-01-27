@@ -8,8 +8,13 @@
 ## Overview
 `app_SDFT` (Sliding Discrete Fourier Transform) is a cutting-edge application demonstrating the capability of computing SDFT on shaders within a computation pipeline. Designed primarily for macOS and iOS platforms, this app efficiently processes audio signals in real-time, leveraging the power of modern GPU computing.
 
+### Demo Video
+Obejrzyj krótkie demo aplikacji `app_SDFT` w akcji:
+[![Demo Video](ścieżka/do/miniatury.jpg)](media/sdft_480p.mp4)
 
-
+### Screenshot
+Poniżej znajduje się screenshot z aplikacji, prezentujący wygenerowany spektrogram:
+![Screenshot with Spectrogram](media/sdft_screen.png)
 
 The application captures audio input from a Mac or iPhone microphone and visualizes it through both a time-domain waveform and a spectrogram. While the SDFT calculations are performed for every sample, the spectrogram updates are intentionally limited to several samples for better visual representation and performance, given the high rate of data processing.
 
