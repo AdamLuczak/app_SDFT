@@ -11,6 +11,7 @@
 ### Demo Video
 Obejrzyj krótkie demo aplikacji `app_SDFT` w akcji:
 [Obejrzyj film (sdft_480p.mp4)](media/sdft_480p.mp4)
+![Screenshot with Spectrogram](media/sdft_anim.gif)
 
 ### Screenshot
 Poniżej znajduje się screenshot z aplikacji, prezentujący wygenerowany spektrogram:
