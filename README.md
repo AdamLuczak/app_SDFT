@@ -11,7 +11,8 @@
 ### Demo Video
 Watch a short demo of the app_SDFT in action:
 [Obejrzyj film (sdft_480p.mp4)](media/sdft_480p.mp4)
-<img src="media/sdft_anim.gif" width="480" height="auro">
+
+   <img src="media/sdft_anim.gif" width="480" height="auro">
 
 The application captures audio input from a Mac or iPhone microphone and visualizes it through both a time-domain waveform and a spectrogram. While the SDFT calculations are performed for every sample, the spectrogram updates are intentionally limited to several samples for better visual representation and performance, given the high rate of data processing.
 
