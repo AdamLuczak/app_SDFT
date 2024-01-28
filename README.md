@@ -86,7 +86,3 @@ For the full terms and conditions, please refer to the MIT License documentation
 
 ## Contact
 For any further inquiries or suggestions, please contact Adam Łuczak at adam.luczak@outlook.com.
-
----
-
-Created by Adam Łuczak, 2024.
