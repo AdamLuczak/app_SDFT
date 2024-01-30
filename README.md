@@ -10,7 +10,7 @@
 
 ### Demo Video
 Watch a short demo of the app_SDFT in action:
-[Obejrzyj film (sdft_480p.mp4)](media/sdft_480p.mp4)
+[(sdft_480p.mp4)](media/sdft_480p.mp4)
 
    <img src="media/sdft_anim.gif" width="480" height="auro">
 
